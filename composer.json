@@ -1,5 +1,5 @@
 {
-  "name": "youshido-code-standard",
+  "name": "youshido/cs-code-standard",
   "type": "coding-standard",
   "description": "CodeSniffer ruleset witch extend Symfony code style and add something new",
   "keywords": ["Symfony2", "Symfony", "coding standard", "phpcs"],
