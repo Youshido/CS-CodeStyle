@@ -14,5 +14,8 @@
   "minimum-stability": "dev",
   "require": {
     "escapestudios/symfony2-coding-standard": "^2.10"
+  },
+  "require-dev": {
+    "youshido/cs-code-standard": "dev-master"
   }
 }
