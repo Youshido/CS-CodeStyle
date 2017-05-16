@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ruleset name="Youshido code standard">
-    <rule ref="./vendor/escapestudios/symfony2-coding-standard/Symfony2" />
+    <rule ref="./../../escapestudios/symfony2-coding-standard/Symfony2" />
 
     <rule ref="Squiz.Strings.ConcatenationSpacing">
         <properties>
